@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "780303349839",
+    "firebase_url": "https://coupons-me.firebaseio.com",
+    "project_id": "coupons-me",
+    "storage_bucket": "coupons-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780303349839:android:7cf2ee67dca5a021",
+        "android_client_info": {
+          "package_name": "com.coupons.me.couponsme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780303349839-l08m2gbn89f0vi2nmf294gjdq9a0jmjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsERsrl5V-ecjF-pPR9FxiGZEJEAEmDAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
